@@ -1,3 +1,5 @@
 
 class PrimeFacotor:
-    pass
+    @classmethod
+    def of(cls, param):
+        return 1
